@@ -1,0 +1,16 @@
+# Power BI Sales Dashboard
+
+## 📊 Project Overview
+This project analyzes sales data using Power BI and DAX.
+
+## 🔧 Tools Used
+- Power BI
+- DAX
+
+## 📈 Key Insights
+- Total Sales, Profit, Quantity
+- Monthly Sales Trend
+- Category-wise performance
+
+## 📷 Dashboard Preview
+(Add screenshot here)
